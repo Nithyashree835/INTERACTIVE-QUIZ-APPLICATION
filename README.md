@@ -22,6 +22,10 @@ Start the quiz with one click
 
 Choose the correct answer from 4 options
 
+*OUTPUT*
+
+<img width="1537" height="780" alt="Image" src="https://github.com/user-attachments/assets/076c1bc6-22fd-4864-af55-de9a056be088" />
+
 Shows correct and wrong answers
 
 Displays final score
